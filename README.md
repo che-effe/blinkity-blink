@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 seed-element
 ============
 
@@ -31,3 +32,7 @@ The tests are also compatible with [web-component-tester](https://github.com/Pol
 npm install -g web-component-tester
 wct
 ```
+=======
+blinkity-blink
+==============
+>>>>>>> 7523cebe80d29e330120a20e7d654d05d0983654
